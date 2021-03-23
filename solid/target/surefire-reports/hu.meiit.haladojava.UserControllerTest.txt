@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: hu.meiit.haladojava.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.076 s <<< FAILURE! - in hu.meiit.haladojava.UserControllerTest
+createWhenAllValidatorAccept  Time elapsed: 0.024 s  <<< ERROR!
+java.lang.NullPointerException
+	at hu.meiit.haladojava.UserControllerTest.createWhenAllValidatorAccept(UserControllerTest.java:43)
+
